@@ -1,0 +1,58 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Distribution / packaging
+build/
+dist/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+
+# Environment directories and files
+.env
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# Streamlit configuration
+.streamlit/
+
+# Folder for storing vector data files
+vectorstores/
+
+# Python cache and pyenv
+.python-version
+.cache
+.mypy_cache/
+.pytest_cache/
+.pytype/
+
+# IDE specific settings
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Operating system generated files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Database files
+*.sqlite
+*.sqlite3
+*.db
+
+# Coverage reports
+htmlcov/
+.coverage
+.coverage.*
