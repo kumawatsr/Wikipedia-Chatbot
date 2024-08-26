@@ -68,7 +68,7 @@ Managing user interactions, maintaining chat history, and generating responses u
 Built with Streamlit to provide an easy-to-use interface for users to input URLs and questions, and to display responses.
 
 ## Flow Diagram
-![Flow Diagram](https://github.com/ShreeramKumawatShorthillsAI/Evaluation-Code-Assignment/blob/shreeram/templates/flowchart.png)
+![Flow Diagram](https://github.com/kumawatsr/Wikipedia-Chatbot/blob/main/templates/flowchart.png)
 
 ## Contributing
 Contributions are welcome! If you'd like to contribute, please fork the repository and use a feature branch. Pull requests are warmly welcome.
